@@ -1,0 +1,23 @@
+.card {
+    @apply m-8 flex flex-col w-96 border-0 border-transparent rounded-2xl;
+}
+
+.img {
+    @apply w-full border-0 border-transparent rounded-t-2xl;
+}
+
+.text {
+    @apply p-3 bg-white border-0 border-transparent rounded-b-2xl;
+}
+
+.h5 {
+    @apply font-bold py-2;
+}
+
+.p {
+    @apply py-2;
+}
+
+.btn {
+    @apply my-2 py-2 px-3 bg-yellow-600 border-0 border-transparent rounded-xl font-semibold text-white;
+}

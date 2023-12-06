@@ -1,0 +1,3 @@
+.footer {
+    @apply p-8 bg-gray-600 text-white w-full text-center;
+}

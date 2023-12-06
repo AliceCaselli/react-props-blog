@@ -1,0 +1,7 @@
+.header {
+    @apply p-5 m-4 text-center;
+}
+
+.h1 {
+    @apply text-3xl font-bold text-gray-500;
+}
